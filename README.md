@@ -18,7 +18,7 @@ Users can add, edit, delete, and complete tasks. Tasks are saved using browser l
 - JavaScript
 
 ## Video Demo
-https://youtu.be/uBCIF6W5O-8
+https://youtu.be/uXUtvC2aIgA
 
 ## GitHub Repository
-https://github.com/Igberry/task-manager-webapp
+https://github.com/Igberry/task-manager-webapp.git

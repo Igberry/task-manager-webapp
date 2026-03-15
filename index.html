@@ -1,32 +1,44 @@
+<!-- Document type declaration -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Task Manager Web App</title>
-<link rel="stylesheet" href="style.css">
+	<!-- Character encoding -->
+	<meta charset="UTF-8">
+	<!-- Responsive design for mobile devices -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Page title -->
+	<title>Task Manager Web App</title>
+	<!-- Link to external CSS file -->
+	<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<div class="container">
+	<!-- Main container for the app -->
+	<div class="container">
 
-<h1>Task Manager</h1>
+		<!-- App title -->
+		<h1>Task Manager</h1>
 
-<button class="dark-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
+		<!-- Button to toggle dark mode -->
+		<button class="dark-toggle" onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
-<div class="task-input">
-<input type="text" id="taskInput" placeholder="Enter a new task">
-<button onclick="addTask()">Add Task</button>
-</div>
+		<!-- Input section for adding new tasks -->
+		<div class="task-input">
+			<input type="text" id="taskInput" placeholder="Enter a new task">
+			<button onclick="addTask()">Add Task</button>
+		</div>
 
-<p id="taskCount">Total Tasks: 0</p>
+		<!-- Display total number of tasks -->
+		<p id="taskCount">Total Tasks: 0</p>
 
-<ul id="taskList"></ul>
+		<!-- List of tasks will appear here -->
+		<ul id="taskList"></ul>
 
-</div>
+	</div>
 
-<script src="script.js"></script>
+	<!-- Link to external JavaScript file -->
+	<script src="script.js"></script>
 
 </body>
 </html>

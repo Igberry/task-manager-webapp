@@ -1,0 +1,11 @@
+{
+  "name": "task-manager-module2",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}

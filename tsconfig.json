@@ -1,14 +1,14 @@
 {
   "compilerOptions": {
     "target": "ES6",
-    "module": "ES6",          // Keep ES6
+    "module": "ES6",
     "moduleResolution": "node",
     "outDir": "dist",
     "rootDir": "task-manager-module2/src",
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "ignoreDeprecations": "6.0"
+    "ignoreDeprecations": "5.0"
   },
   "include": ["task-manager-module2/src"]
 }

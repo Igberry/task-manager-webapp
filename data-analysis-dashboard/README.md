@@ -33,3 +33,14 @@ This branch contains all updates and features related to the Data Analysis modul
 ```bash
 python main.py
 ```
+
+## Video Demo
+
+The following video provides a complete walkthrough of the project, including:
+
+- Code explanation
+- Data cleaning process
+- Analysis and visualization results
+- Final output demonstration
+
+🎥 Watch here: https://youtu.be/Db3RFCDbp88

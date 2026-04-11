@@ -4,6 +4,14 @@
 
 This project is a Data Analysis Dashboard built using Python. It analyzes student performance data and generates insights using statistics and visualizations.
 
+## Branch Information
+
+This project is developed and committed on a Git branch named:
+
+**module-3-data-analysis**
+
+This branch contains all updates and features related to the Data Analysis module implementation.
+
 ## Features
 
 - Data loading and cleaning using Pandas
@@ -23,6 +31,5 @@ This project is a Data Analysis Dashboard built using Python. It analyzes studen
 ## How to Run
 
 ```bash
-pip install -r requirements.txt
 python main.py
 ```

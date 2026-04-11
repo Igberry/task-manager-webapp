@@ -22,3 +22,7 @@ https://youtu.be/uXUtvC2aIgA
 
 ## GitHub Repository
 https://github.com/Igberry/task-manager-webapp.git
+
+Module 2 Video: https://youtu.be/NZn46FOZwTw
+
+This module is committed to the `module-2---typescript` branch.
